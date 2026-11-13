@@ -1,45 +1,32 @@
-Hi there! 👋 I'm Merin Antony
+Hi, I'm Merin Antony! 👋
 
 🎓 BCA Student | Aspiring Web Developer
 
 👩‍💻 About Me
 
-- 🎓 I'm currently pursuing Bachelor of Computer Applications (BCA).
-- 💻 Interested in Web Development and Software Development.
-- 🌱 Currently learning the MERN Stack.
-- 🚀 Enjoy building practical projects and learning new technologies.
-- 🎯 My goal is to become a skilled software developer.
+- Currently pursuing BCA.
+- Interested in Web Development and Software Development.
+- Learning the MERN Stack.
+- Enjoy building projects and learning new technologies.
 
-🛠️ Technical Skills
+🛠️ Skills
 
-- Programming Languages: C, Java (Basics)
-- Web Technologies: HTML, CSS, JavaScript
-- Frameworks: React (Basics)
+- Languages: C, Java (Basics), JavaScript
+- Frontend: HTML, CSS, React (Basics)
 - Database: MongoDB (Basics)
 - Tools: VS Code, Git, GitHub
 
-📂 My Projects
+🚀 Projects
 
-1. Attendance Tracker
+- Attendance Tracker: A web application to manage student attendance.
+- Expense Tracker: An application to manage daily expenses and budgets.
 
-A web application for managing student details and tracking attendance.
+🌱 Currently Learning
 
-2. Expense Tracker
+React.js, Node.js and MongoDB.
 
-An application to manage daily expenses and budgets.
+📫 Connect With Me
 
-📚 Currently Learning
-
-- React.js
-- JavaScript
-- Node.js
-- MongoDB
-- Data Structures and Algorithms
-
-🌐 Connect With Me
-
-- GitHub: https://github.com/Merin-antony123
-
----
+"GitHub" (https://github.com/Merin-antony123)
 
 ⭐ Thanks for visiting my profile!
